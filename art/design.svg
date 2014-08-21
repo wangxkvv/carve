@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="320" height="320" viewBox="0 0 32 32">
+<!-- Created by Carve Lithium (0.03) -->
+<rect x="6.75" y="12.75" fill="#0000FF" width="14" height="13"/>
+<circle fill="#FF0000" fill-opacity="0.85" cx="19.5" cy="19.5" r="7"/>
+<polygon fill="#008000" fill-opacity="0.85" points="16,6 24,20 8,20 "/>
+</svg>

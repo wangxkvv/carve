@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.2' baseProfile='tiny' 
+     viewBox="0 0 300 300" width="32" height="32">
+  <!-- Created with Carve Lithium (0.03) -->
+  <defs>
+    <radialGradient id="highlight" cx="0.3" cy="0.3" fx="0.3" fy="0.3" rx="200" ry="200">
+      <stop offset="0" stop-color="#bb8" stop-opacity="0.6" />
+      <stop offset="0.5" stop-color="#887" stop-opacity="0.7" />
+      <stop offset="1.0" stop-color="#665" stop-opacity="0.5" />
+    </radialGradient>
+  </defs>
+  <circle cx="150" cy="150" r="140" fill="#888" stroke="black" stroke-width="2"/>
+  <circle cx="150" cy="150" r="140" fill="url(#highlight)" />
+  <path stroke="black" stroke-width="2" fill="#0a0" d="m100,80 l125,75 l-125,75 z" />
+</svg>

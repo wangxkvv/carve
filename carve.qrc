@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/toolbars" >
+        <file>images/open.png</file>
+        <file>images/new.png</file>
+        <file>images/save.png</file>
+        <file>images/cut.png</file>
+        <file>images/copy.png</file>
+        <file>images/paste.png</file>
+        <file>images/play.png</file>
+        <file>images/play-hovered.png</file>
+        <file>images/Carve-48.png</file>
+        <file>images/code.png</file>
+        <file>images/design.png</file>
+    </qresource>
+</RCC>
